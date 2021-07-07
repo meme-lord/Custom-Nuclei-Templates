@@ -2,7 +2,7 @@ id: TG8 Firewall PreAuth RCE
 
 info:
   name: TG8 Firewall PreAuth RCE
-  author: shifacyclewala, hackergautam
+  author: nithissh
   severity: critical
   description: A malicious actor can trigger Un authenticated Remote Code Execution
   tags: rce,tg8 firewall
